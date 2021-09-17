@@ -1,3 +1,3 @@
 # CV-Abel-Acevedo
 ------------------------------
-version 1.0
+version Beta en desarrollo
